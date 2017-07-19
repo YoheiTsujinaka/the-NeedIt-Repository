@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="c24d3f6edbbb320028d9d190cf96195f" sys_domain="global" table="x_142035_marketing_marketing_event" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-10 04:49:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce4d3f6edbbb320028d9d190cf961960</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_142035_marketing_marketing_event" name="x_142035_marketing_marketing_event" sys_domain="global" view="314d77eadb7b320028d9d190cf96194e">c24d3f6edbbb320028d9d190cf96195f</sys_ui_form>
+            <sys_ui_section caption="Event Info" display_value="Event Info" name="x_142035_marketing_marketing_event" sys_domain="global" view="314d77eadb7b320028d9d190cf96194e">424d3f6edbbb320028d9d190cf96195e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-10 04:49:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-10 04:49:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a4d3f6edbbb320028d9d190cf961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_142035_marketing_marketing_event" name="x_142035_marketing_marketing_event" sys_domain="global" view="314d77eadb7b320028d9d190cf96194e">c24d3f6edbbb320028d9d190cf96195f</sys_ui_form>
+            <sys_ui_section caption="System Info" display_value="System Info" name="x_142035_marketing_marketing_event" sys_domain="global" view="314d77eadb7b320028d9d190cf96194e">0a4d3f6edbbb320028d9d190cf96195e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-10 04:49:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_142035_marketing_marketing_event</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-10 04:49:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c24d3f6edbbb320028d9d190cf96195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_142035_marketing_marketing_event</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Marketing Event" source="x_142035_marketing">92636fa2dbbb320028d9d190cf9619ca</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Marketing Event">92636fa2dbbb320028d9d190cf9619ca</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c24d3f6edbbb320028d9d190cf96195f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-10 04:49:33</sys_updated_on>
+            <sys_user/>
+            <view display_value="Sample View" name="Sample_View">314d77eadb7b320028d9d190cf96194e</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

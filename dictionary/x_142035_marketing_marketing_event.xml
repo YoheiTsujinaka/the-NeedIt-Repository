@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Marketing Event" max_length="40" name="x_142035_marketing_marketing_event" type="collection">
+        <element label="Budget" max_length="12" name="budget" type="currency"/>
+        <element label="City" max_length="40" name="city" type="string"/>
+        <element label="End Date" max_length="40" name="end_date" type="glide_date"/>
+        <element label="Event Name" mandatory="true" max_length="40" name="event_name" type="string"/>
+        <element label="Expected Atendees" max_length="10" name="expected_atendees" type="integer"/>
+        <element choice="1" label="Prefecture" max_length="40" name="prefecture" type="choice">
+            <choice>
+                <element label="Chiba"/>
+                <element label="Ibaraki"/>
+                <element label="Saitama"/>
+                <element label="Tokyo"/>
+            </choice>
+        </element>
+        <element label="Resistered Atendees" max_length="10" name="resistered_atendees" type="integer"/>
+        <element label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+    </element>
+</database>

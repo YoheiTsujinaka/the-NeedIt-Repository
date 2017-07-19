@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_142035_marketing.marketing_event_user" name="x_142035_marketing.marketing_event_user">db25f32edbf7320028d9d190cf96196c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-10 04:14:09</sys_created_on>
+        <sys_id>1725f3aadbbb320028d9d190cf9619c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>db25f32edbf7320028d9d190cf96196c</sys_name>
+        <sys_package display_value="Marketing Event" source="x_142035_marketing">92636fa2dbbb320028d9d190cf9619ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Event">92636fa2dbbb320028d9d190cf9619ca</sys_scope>
+        <sys_update_name>sys_embedded_help_role_1725f3aadbbb320028d9d190cf9619c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-10 04:14:09</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
